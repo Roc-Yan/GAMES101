@@ -23,4 +23,4 @@
 
 实现Texture之后：![image-20230628173233251](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/57639p.png)
 
-实现
+实现Bump Mapping后：![image-20230628182343198](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/xnicq0.png)
