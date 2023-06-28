@@ -15,12 +15,14 @@
 
 ## Assignment3：Pipeline and Shading
 
-作业3和作业2一样也需要修改坐标系，否则只能看到牛屁股
+作业3和作业2一样也需要修改坐标系，否则只能看到牛屁股。在实现作业3之前建议先看[作业3更正公告](http://games-cn.org/forums/topic/作业3更正公告/)中的“作业三常见问题集合”。
 
-实现Normal Shader后：![image-20230627201458386](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/g3magk.png)
+实现 Normal Shader 后：![image-20230627201458386](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/g3magk.png)
 
-实现Blinn-Phong 反射模型之后：![image-20230628171630162](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/ckyeqa.png)
+实现 Blinn-Phong 反射模型之后：![image-20230628171630162](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/ckyeqa.png)
 
-实现Texture之后：![image-20230628173233251](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/57639p.png)
+实现 Texture 后：![image-20230628173233251](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/57639p.png)
 
-实现Bump Mapping后：![image-20230628182343198](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/xnicq0.png)
+实现 Bump Mapping 后：![image-20230628182343198](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/xnicq0.png)
+
+实现 Displacement Mapping 后：![image-20230628183530834](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/wsxkis.png)
