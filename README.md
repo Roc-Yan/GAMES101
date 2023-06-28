@@ -17,4 +17,6 @@
 
 作业3和作业2一样也需要修改坐标系，否则只能看到牛屁股
 
-实现normal shader后：![image-20230627201458386](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/g3magk.png)
+实现Normal Shader后：![image-20230627201458386](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/g3magk.png)
+
+实现Blinn-Phong 反射模型之后：![image-20230628171630162](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/ckyeqa.png)
