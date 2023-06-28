@@ -20,3 +20,5 @@
 实现Normal Shader后：![image-20230627201458386](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/g3magk.png)
 
 实现Blinn-Phong 反射模型之后：![image-20230628171630162](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/ckyeqa.png)
+
+实现Texture之后：![image-20230628173233251](http://rocyan.oss-cn-hangzhou.aliyuncs.com/notes/57639p.png)
